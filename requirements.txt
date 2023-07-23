@@ -1,0 +1,10 @@
+langchain
+pymupdf
+openai
+chromadb
+unstructured[local-inference]
+Flask
+Werkzeug
+Flask-WTF
+Flask-Uploads
+tiktoken
